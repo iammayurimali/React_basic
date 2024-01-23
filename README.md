@@ -1,11 +1,11 @@
 
 1. Clone the repository to your local machine.
 
-git clone https://github.com/iammayurimali/Counter_app.git
+ git clone https://github.com/iammayurimali/React_basic.git
 
 2. Install the required packages.
 
-npm install
+ npm install
 
 3. In the project directory, you can run:
 
